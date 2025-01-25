@@ -6,12 +6,12 @@ function BrandLogo() {
   return (
     <>
       <Image
-        src={''}
+        src={lightLogo}
         alt="Aboubekrine Sow"
         className="max-h-12 w-fit dark:hidden"
       />
       <Image
-        src={""}
+        src={darkLogo}
         alt="Aboubekrine Sow"
         className="hidden max-h-12 w-fit dark:block"
       />
