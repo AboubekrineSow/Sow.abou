@@ -25,7 +25,7 @@ function About() {
                 width={400}
               />
               <Image
-                src={"/images/darkAboutPicture.png"}
+                src={"/images/me.png"}
                 className="hidden self-center dark:block"
                 alt=""
                 height={400}
