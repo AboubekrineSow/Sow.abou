@@ -7,7 +7,8 @@ function Footer() {
       <hr className="h-px border-t-0 bg-lightPrimary-900 opacity-30 dark:bg-darkPrimary-900" />
       <div className="flex flex-col py-14 sm:flex-row">
         <div className="flex flex-col gap-7 sm:w-9/12">
-          <BrandLogo /> 
+          
+          
           <p className="text-sm text-[#1E2F40]">
             Ce portfolio est toujours en cours d’évolution. Développé avec
             Next.JS, React.JS, Tailwind CSS, Framer motion pour les animations.

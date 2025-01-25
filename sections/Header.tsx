@@ -18,7 +18,8 @@ function Header() {
         Disponible
       </div>
       <div className="flex w-9/12 md:w-8/12 md:justify-center">
-        <BrandLogo />
+        
+
       </div>
       <div className="flex w-3/12 justify-end">
         <ThemeToggle />
