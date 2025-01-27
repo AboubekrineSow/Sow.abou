@@ -35,28 +35,31 @@ function About() {
             <div className="w-12/12 md:w-7/12 xl:w-5/12">
               <h2 className="mb-6 text-3xl font-bold">A propos de moi</h2>
               <div className="flex flex-col gap-4">
-                <p>
-                  Bienvenue ! Je m&apos;appelle Aboubekrine Sow, j&apos;ai 25 ans et je
-                  suis passionné par le monde du web et le développement en
-                  général et cela depuis 2019.
+                <p>Bienvenue ! Je m&apos;appelle Aboubekrine Sow, j&apos;ai 25 ans
+                   et je suis passionné par le développement informatique et les nouvelles
+                   technologies depuis 2019.
                 </p>
                 <p>
-                  Je travaille la plupart du temps avec Angular.js et Spring boot et j&apos;aime
-                  créer des interfaces plaisantes, compréhensibles et
-                  performantes pour ses utilisateurs.
+                   Je travaille principalement avec Spring Boot et Angular, et j&apos;aime 
+                   concevoir des applications modernes et performantes offrant une expérience
+                   utilisateur fluide et agréable.
                 </p>
                 <p>
-                  Mais mon enthousiasme envers le web ne s&apos;arrête pas au
-                  développement ! J&apos;ai déjà transmis mes connaissances en
-                  formant des étudiants et des collègues, je fais parfois un peu
-                  de SEO et de web design. Je m&apos;intéresse également à
-                  l&apos;accessibilité numérique, un enjeu que je trouve bien
-                  trop souvent sous-estimé par les acteurs du numérique.
+                   Mon expertise va au-delà du développement, car j&apos;ai également formé des
+                   étudiants et des collègues, partagé mes connaissances sur des technologies modernes,
+                   et contribué à l&apos;optimisation de projets en m&apos;intéressant aux domaines du SEO,
+                  de l&apos;accessibilité numérique et de la cybersécurité.
                 </p>
                 <p>
-                  Lorsque je ne suis pas devant du code, je regarde des films,
-                  je pratique ou regarde du sport, et je joue aux jeux vidéo.
+                   Passionné par la cybersécurité, je m&apos;intéresse aux enjeux liés à la protection des données,
+                   aux bonnes pratiques en matière de sécurité applicative et à l&apos;analyse des vulnérabilités.
                 </p>
+                <p>
+                   En dehors de mon activité professionnelle, je suis passionné de sport, j&apos;aime regarder des
+                   films, jouer aux jeux vidéo et explorer de nouvelles technologies. Ces loisirs enrichissent ma 
+                   créativité et me permettent de maintenir un équilibre dans ma vie.
+                </p>
+
               </div>
             </div>
           </div>
