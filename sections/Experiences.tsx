@@ -41,10 +41,10 @@ function Experiences() {
           company={"Wafasoft SA"}
         >
           <p>Stage en développement logiciel au sein de Wafasoft, Mauritanie.</p> 
-          <p> Analyse des besoins clients et conception de solutions logicielles
-            adaptées aux exigences locales, tout en garantissant la qualité et la satisfaction utilisateur. 
+          <p> Analyse des besoins clients, conception et developpement solution
+            adaptée aux exigence locale, tout en garantissant la qualité et la satisfaction utilisateur. 
           </p>
-          <p> Développement d'applications de gestion avec C# et ASP.NET MVC, 
+          <p> Développement d'applications de gestion de avec C# et ASP.NET MVC, 
               intégration de bases de données SQL Server, et mise en œuvre de fonctionnalités
               pour améliorer l'efficacité opérationnelle. 
           </p> 
@@ -56,19 +56,16 @@ function Experiences() {
           dateEnd={"10/2021"}
           company={"SNIM"}
         >
-          <p>Développeur sur un projet Gestion Stagiaires.</p>
+          <p>Développeur sur un projet de Gestion des Stagiaires.</p>
           <p>
-            Projet en Java Spring, base MongoDB, sauvegarde des données via une
-            BDD Oracle. Gestion de l’API Rest avec Swagger, routing avec Apache
-            Camel, tests unitaires avec Junit.
+            Conception et développement d'une application de gestion de stagiaires utilisant HTML, CSS, Bootstrap, JavaScript, PHP, 
+            et une base de données MySQL.
           </p>
           <p>
-            Travail en TDD, Peer Programing , clean code. Projet dirigé en
-            méthodes agiles avec présence de développeurs Indiens en offshore
-            dans l’équipe. Intégration continue avec Jenkins, outils
-            collaboratifs Jira, Bitbucket, Confluence.
+            Gestion des demandes de stage, des programmes de stage, et des données des stagiaires. 
+            Travail autonome avec une approche clean code, en suivant les méthodologies agiles.
           </p>
-        </Experience>
+       </Experience>
       </div>
     </>
   );

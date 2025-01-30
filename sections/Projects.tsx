@@ -15,9 +15,9 @@ function Projects() {
       </RevealContent>
       <div className="flex flex-col gap-12 lg:gap-20">
         <ProjectCard
-          name={"antoinedangleterre.com"}
+          name={"Mon portfolio"}
           description={
-            "Mon site personnel dédié au développement, un projet en constante évolution où je partage mes projets personnels, mon parcours, ainsi que mes informations de contact."
+            "Mon site personnel dédié au développement(portfolio), un projet en constante évolution où je partage mes projets personnels, mon parcours, ainsi que mes informations de contact."
           }
           technologies={[
             "Next JS",
@@ -27,57 +27,57 @@ function Projects() {
             "Responsive",
             "Shadcn",
           ]}
-          imageSrc={"/images/Screenshot-Antoine-Dangleterre.png"}
+          imageSrc={"/images/Screenshot"}
           imagePosition={"right"}
-          githubLink={"https://github.com/adangleterre/antoinedangleterre.com"}
-          directLink={"https://antoinedangleterre.com"}
+          githubLink={""}
+          directLink={"https://sow-abou.vercel.app/"}
         />
         <ProjectCard
-          name={"La data verte"}
+          name={"snapface (Front-end)"}
           description={
-            "Un site web créé en collaboration avec un autre développeur, qui récupère les données d'une API personnalisée pour afficher des statistiques et des informations sur le club de foot de l'AS Saint-Étienne."
+            ""
           }
           technologies={[
-            "NextJS",
-            "React.JS",
-            "Tailwind CSS",
-            "API",
-            "Responsive",
-            "Github Actions",
+            "Angular 17 ",
+            "HTML",
+            "CSS",
+            "Json-server",
+            "Github",
           ]}
-          imageSrc={"/images/Screenshot-La-data-verte.png"}
+          imageSrc={""}
           imagePosition={"left"}
-          githubLink={"https://github.com/adangleterre/la-data-verte"}
-          directLink={"https://la-data-verte.vercel.app/"}
+          githubLink={"https://github.com/aboubekrineSow/"}
+          directLink={""}
         />
         <ProjectCard
-          name={"Front-end practice"}
+          name={"gestion des produits (Front-end)"}
           description={
-            "Frontendpractice.com est un site proposant des challenges pour les développeurs front-end. L'objectif est simple : recréer des sites existants d'entreprises réelles telles que Trello, Starbucks, Shopify, Nintendo, etc."
+            "gestion des produits"
           }
-          technologies={["React.JS", "Tailwind CSS", "Responsive"]}
-          imageSrc={"/images/Screenshot-Frontend-practice.png"}
+          technologies={["Angular 11", "HTML", "CSS"]}
+          imageSrc={""}
           imagePosition={"right"}
-          githubLink={"https://github.com/adangleterre/FrontEndPractice"}
+          githubLink={"https://github.com/aboubekrineSow/"}
         />
         <ProjectCard
-          name={"Kodiz"}
+          name={"gestion des complexes sportive"}
           description={
-            "Le site de mon auto-entreprise avec laquelle j'ai créé des sites web et accompagné mes clients dans l'évolution de leur présence en ligne"
+            "un projet academique"
           }
           technologies={[
-            "Blog",
-            "SEO",
-            "Marketing",
-            "Webdesign",
-            "UX/UI",
-            "WordPress",
-            "Maintenance",
+            "Java",
+            "Spring boot",
+            "Spring security",
+            "Spring Data JPA",
+            "Rest API",
+            "Refine JS",
+            "MySQL",
           ]}
-          imageSrc={"/images/Screenshot-kodiz.png"}
+          imageSrc={""}
           imagePosition={"left"}
-          directLink={"https://kodiz.fr"}
+          directLink={""}
         />
+        
       </div>
     </>
   );
